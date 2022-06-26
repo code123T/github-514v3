@@ -1,0 +1,15 @@
+C:\Users\99455\Desktop\c#\Turbo\Turbo\bin\Debug\net6.0\Turbo.exe
+C:\Users\99455\Desktop\c#\Turbo\Turbo\bin\Debug\net6.0\Turbo.deps.json
+C:\Users\99455\Desktop\c#\Turbo\Turbo\bin\Debug\net6.0\Turbo.runtimeconfig.json
+C:\Users\99455\Desktop\c#\Turbo\Turbo\bin\Debug\net6.0\Turbo.dll
+C:\Users\99455\Desktop\c#\Turbo\Turbo\bin\Debug\net6.0\Turbo.pdb
+C:\Users\99455\Desktop\c#\Turbo\Turbo\obj\Debug\net6.0\Turbo.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\c#\Turbo\Turbo\obj\Debug\net6.0\Turbo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\c#\Turbo\Turbo\obj\Debug\net6.0\Turbo.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\c#\Turbo\Turbo\obj\Debug\net6.0\Turbo.AssemblyInfo.cs
+C:\Users\99455\Desktop\c#\Turbo\Turbo\obj\Debug\net6.0\Turbo.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\c#\Turbo\Turbo\obj\Debug\net6.0\Turbo.dll
+C:\Users\99455\Desktop\c#\Turbo\Turbo\obj\Debug\net6.0\refint\Turbo.dll
+C:\Users\99455\Desktop\c#\Turbo\Turbo\obj\Debug\net6.0\Turbo.pdb
+C:\Users\99455\Desktop\c#\Turbo\Turbo\obj\Debug\net6.0\Turbo.genruntimeconfig.cache
+C:\Users\99455\Desktop\c#\Turbo\Turbo\obj\Debug\net6.0\ref\Turbo.dll
